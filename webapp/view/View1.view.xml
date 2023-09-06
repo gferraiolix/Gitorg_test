@@ -1,7 +1,7 @@
-<mvc:View controllerName= "sap.btp.helloworldui5.controller.View1" 
-    xmlns:mvc= "sap.ui.core.mvc" displayblock="true">
+<mvc:View controllerName= "sap.btp.Gitorg_test.controller.View1"
+    xmlns:mvc= "sap.ui.core.mvc" displayBlock="true"
     xmlns= "sap.m">
-    <Page id= "page" title= "{Helloworld>title}">
+    <Page id= "page" title= "{Helloworld}">
         <content/>
-    <Page id="_IDGenPage1">
-    </mvc: View1:>    
+    </Page>
+</mvc: View>    
